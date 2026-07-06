@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Anvesh+Anand+Pol" alt="Header" />
+  <h1>A N V E S H &nbsp; A N A N D &nbsp; P O L</h1>
 
   <p><h3>Full Stack Engineer | Competitive Programmer</h3></p>
 
@@ -12,7 +12,6 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Xploit-Ghost&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Open_To_Work-Internship_|_Full--Time-success?style=for-the-badge" alt="Open to Work" />
   </p>
 
@@ -32,8 +31,13 @@
       <p><strong>Looking to collaborate on:</strong> Cloud-native architectures, open-source tooling, and algorithmic challenges.</p>
       <p><strong>Reach me:</strong> <a href="mailto:YOUR_EMAIL@gmail.com">Email Me</a></p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00E5FF&width=350&lines=>_+INIT_WORKSPACE...;>_+MOUNT+FEDORA_OS;>_+COMPILE+DATA_STRUCTURES;>_+EXECUTE+CP_TRACKER;>_+SYSTEM+ONLINE...;>_+AWAITING+DIRECTIVES..." alt="Terminal Graphic" />
+    <td width="40%">
+<pre><code>>_ INIT_WORKSPACE...
+>_ MOUNT FEDORA_OS
+>_ COMPILE DATA_STRUCTURES
+>_ EXECUTE CP_TRACKER
+>_ SYSTEM ONLINE...
+>_ AWAITING DIRECTIVES...</code></pre>
     </td>
   </tr>
 </table>
