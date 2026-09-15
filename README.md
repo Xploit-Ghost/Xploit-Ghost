@@ -32,7 +32,7 @@
     </td>
     <td width="40%">
 <pre><code>>_ INIT_WORKSPACE...
->_ MOUNT FEDORA_OS
+>_ MOUNT ARCH+HYPRLAND
 >_ COMPILE DATA_STRUCTURES
 >_ EXECUTE CP_TRACKER
 >_ SYSTEM ONLINE...
